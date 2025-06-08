@@ -34,3 +34,37 @@ for i in range(5):
     if i == 2:
         continue  # Skips this iteration
     print(i)
+
+# --- Mini Challenges ---
+
+# Challenge 1: Even or Odd
+num = 7
+if num % 2 == 0:
+    print(f"{num} is even.")
+else:
+    print(f"{num} is odd.")
+
+# Challenge 2: Count 1 to 10, skip 5
+for i in range(1, 11):
+    if i == 5:
+        continue
+    print(i)
+
+# Challenge 3: Stop at 7 using while loop
+i = 1
+while i <= 10:
+    if i == 7:
+        break
+    print(i)
+    i += 1
+
+# Challenge 4: Grading system
+score = 85
+if score >= 90:
+    print("Grade: A")
+elif score >= 80:
+    print("Grade: B")
+elif score >= 70:
+    print("Grade: C")
+else:
+    print("Grade: D or below")
