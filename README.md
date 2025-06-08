@@ -23,3 +23,10 @@ My learning path for Python &amp; AI/ML
     - Loop 1 to 10 (skip 5)  
     - Stop at 7 using `while`  
     - Grading system
+
+- **Day 4:**  
+  - Python Data Structures  
+    - `List`: ordered, mutable collection  
+    - `Tuple`: ordered, immutable collection  
+    - `Set`: unordered, no duplicates  
+    - `Dictionary`: key-value pairs (used in real-world projects)
