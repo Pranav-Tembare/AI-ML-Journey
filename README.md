@@ -30,3 +30,9 @@ My learning path for Python &amp; AI/ML
     - `Tuple`: ordered, immutable collection  
     - `Set`: unordered, no duplicates  
     - `Dictionary`: key-value pairs (used in real-world projects)
+
+- **Day 5:**  
+  - Functions: basics, parameters, return values  
+  - Default and keyword arguments  
+  - Error handling with `try-except`  
+  - Mini challenges on functions and exceptions  
