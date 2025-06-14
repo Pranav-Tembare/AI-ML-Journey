@@ -36,3 +36,19 @@ My learning path for Python &amp; AI/ML
   - Default and keyword arguments  
   - Error handling with `try-except`  
   - Mini challenges on functions and exceptions  
+
+  ---
+
+### ✅ Week 2 Progress
+
+- **Day 6:**  
+  - File Handling in Python  
+    - Opening, reading, writing, and closing files using `open()`  
+    - File modes: `"r"`, `"w"`, `"a"`, `"r+"`  
+    - Using `with open(...)` context manager  
+    - Reading with `.read()`, `.readline()`, `.readlines()`  
+    - Writing with `.write()` and `.writelines()`  
+  - 🧠 Mini Challenges:
+    - Read a file and print contents  
+    - Write user input to a file  
+    - Append text to an existing file
