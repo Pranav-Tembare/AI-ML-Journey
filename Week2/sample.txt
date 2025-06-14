@@ -1,0 +1,3 @@
+Hello AI-ML Journey!
+Welcome to Day 6: File Handling.
+Appending this new line.
