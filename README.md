@@ -52,3 +52,12 @@ My learning path for Python &amp; AI/ML
     - Read a file and print contents  
     - Write user input to a file  
     - Append text to an existing file
+
+- **Day 7:**  
+  - Built-in modules: `math`, `random`, `os`  
+  - Import methods: `import`, `from ... import ...`, aliasing  
+  - Created a custom module and used it  
+  - 🧠 Mini Challenges:
+    - Use `math` to calculate power and floor
+    - Simulate dice rolls with `random`
+    - Print a greeting using a custom module
