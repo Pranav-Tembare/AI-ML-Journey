@@ -61,3 +61,14 @@ My learning path for Python &amp; AI/ML
     - Use `math` to calculate power and floor
     - Simulate dice rolls with `random`
     - Print a greeting using a custom module
+
+- **Day 8:**  
+  - Object-Oriented Programming (OOP)  
+    - Classes and Objects  
+    - Constructors and instance variables  
+    - Class vs instance variables  
+    - Inheritance (`super()`, method overriding)  
+    - 🧠 Mini Challenges:
+      - Car class with brand/year  
+      - Employee & Manager inheritance  
+      - Bank Account with deposit/withdraw methods  
