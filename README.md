@@ -72,3 +72,14 @@ My learning path for Python &amp; AI/ML
       - Car class with brand/year  
       - Employee & Manager inheritance  
       - Bank Account with deposit/withdraw methods  
+
+- **Day 9:**  
+  - Regular Expressions (Regex) using `re` module  
+    - `search()`, `findall()`, `sub()`  
+    - Common patterns like `\d`, `\w`, `\s`, `{}`  
+  - 🧠 Mini Challenges:
+    - Extract phone numbers from text  
+    - Find all hashtags in a string  
+    - Replace bad words with `[censored]`
+
+---
