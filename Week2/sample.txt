@@ -1,5 +1,0 @@
-Alpha
-Beta
-Gamma
-Appended this line.
-Added with r+ mode
