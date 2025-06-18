@@ -92,3 +92,15 @@ My learning path for Python &amp; AI/ML
     - Exception handling
 
 ---
+
+### ✅ Week 3 Progress
+
+- **Day 11: Lambda, map, filter, reduce**
+  - `lambda` functions for creating small anonymous functions
+  - `map()` to apply a function to every item in a list
+  - `filter()` to select elements based on a condition
+  - `reduce()` from `functools` to reduce a list to a single value
+  - 🧠 Mini Challenges:
+    - Convert Celsius to Fahrenheit using `map()`
+    - Filter values greater than 10 using `filter()`
+    - Find the maximum number using `reduce()`
