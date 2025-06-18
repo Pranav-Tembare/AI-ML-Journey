@@ -82,4 +82,13 @@ My learning path for Python &amp; AI/ML
     - Find all hashtags in a string  
     - Replace bad words with `[censored]`
 
+- **Day 10: Practice + Mini Project**  
+  - ✅ Reviewed Week 1 & 2 concepts  
+  - 📄 Built CLI Student Management System using:
+    - Classes and functions  
+    - `re` module for input validation  
+    - File handling: `a`, `r` modes  
+    - Menu system with `while` loop  
+    - Exception handling
+
 ---
