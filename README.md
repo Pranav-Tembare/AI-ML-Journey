@@ -104,3 +104,14 @@ My learning path for Python &amp; AI/ML
     - Convert Celsius to Fahrenheit using `map()`
     - Filter values greater than 10 using `filter()`
     - Find the maximum number using `reduce()`
+
+- **Day 12:**  
+  - List Comprehensions  
+    - Create lists from other iterables in one line  
+    - With condition filtering  
+    - Convert cases, flatten matrix  
+    - 💡 Mini challenges:
+      - Squares from 1–10  
+      - Filter vowels  
+      - Convert USD to INR  
+      - Flatten nested list
